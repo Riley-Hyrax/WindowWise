@@ -1,0 +1,35 @@
+.section-3{
+    width: 80%;
+    height: 350px;
+    margin: auto;
+    border-radius: 40px;
+    background-color: #FF3C3C   ;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.cta-h1{
+    color: white;
+    font-size: 50px;
+}
+
+.cta-p1{
+    color: white;
+    font-size: 25px;
+}
+
+.cta-button{
+    background: white;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: #FF3C3C;
+    font-weight: bold;
+    width: 373.8px;
+    height: 67.59px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,44 @@
+.section-1{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.hero-section1{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+.hero-section2{
+    position: relative;
+    width: 40%;
+    height: 400px;
+    background-size: cover;
+    background-image: url(windows.jpg);
+    border-radius: 8px;
+    box-shadow: 0px 4px 4px 0px #7272723a;
+}
+
+.img--trustpilot{
+    height: 70px;
+    width: 100px;
+}
+
+.hero-button{
+    width: 200px;
+    height: 50px;
+}
+
+.lead-trustpilot{
+    font-size: 14px !important;
+}
+
+.lead-top{
+    color: #FF3C3C !important;
+}
